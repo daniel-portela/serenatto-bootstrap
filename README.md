@@ -50,7 +50,7 @@ cd nome-do-repositorio
 Você pode abri-lo no VS Code digitando:
 
 ```bash
- code .
+code .
 
 
 ✉️ <b>Contato:</b>

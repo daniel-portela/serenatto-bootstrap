@@ -46,7 +46,7 @@ Depois de clonar o repositório, acesse o projeto com o seguinte comando:
 
 ```bash
 cd nome-do-repositorio
-
+```
 
 ✉️ <b>Contato:</b>
 

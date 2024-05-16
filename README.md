@@ -4,7 +4,7 @@ Projeto <a href="https://serenattobootstrap.netlify.app/">Serenatto</a> desenvol
 <p>Este é um projeto desenvolvido pelo curso da alura afim de me aperfeiçoar no aprendizado em Bootstrap. É um projeto fictício sem fins comerciais, desenvolvido com fins educativos.</p>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/serenatto-bootstrap/assets/110783805/f4b2b690-5478-427e-9259-7edc1d7143c2)
 
 👨🏼‍💻 <b>Tecnologias utilizadas:</b>
 
@@ -27,7 +27,7 @@ Projeto <a href="https://serenattobootstrap.netlify.app/">Serenatto</a> desenvol
 
 🛠️ <b>Estrutura do projeto:</b>
 
-![alt text](estrutura.png)
+![estrutura](https://github.com/daniel-portela/serenatto-bootstrap/assets/110783805/ad2cf684-25e5-4ed7-bfa3-4608a43d1431)
 
 Para executar o <b>projeto</b> localmente, execute este comando em seu git bash:
 

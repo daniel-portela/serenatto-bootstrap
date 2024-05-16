@@ -34,13 +34,13 @@ Para executar o <b>projeto</b> localmente, execute este comando em seu git bash:
 <b>Linux e macOS:</b>
 
 ```bash
-git clone https://github.com/daniel-portela/serenato.git
+git clone https://github.com/daniel-portela/serenato-bootstrap.git
 ```
 
 <b>Windows:</b>
 
 ```bash
-git clone https://github.com/daniel-portela/serenatto.git
+git clone https://github.com/daniel-portela/serenatto-bootstrap.git
 ```
 Depois de clonar o repositório, acesse o projeto com o seguinte comando:
 

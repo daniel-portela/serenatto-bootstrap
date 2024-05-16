@@ -47,9 +47,11 @@ Depois de clonar o repositório, acesse o projeto com o seguinte comando:
 ```bash
 cd nome-do-repositorio
 
+Você pode abri-lo no VS Code digitando:
+
 ```bash
-Você pode abri-lo no VS Code digitando "code ."
-```
+ code .
+
 
 ✉️ <b>Contato:</b>
 
